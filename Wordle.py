@@ -35,7 +35,7 @@ def joc():
 
     while not ghicit:
         print("Cuvantul: ", end="")
-        incercare = player.primesteCuvand().upper()
+        incercare = player.primesteCuvant().upper()
         print(incercare)
         print("          ", end="")
 
