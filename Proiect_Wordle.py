@@ -153,10 +153,6 @@ class Jucator:
                 poz -= 1
                 stergere = False
 
-    def resetare_joc(self):
-        global cuvinte_dupa_entropie
-        cuvinte_dupa_entropie = copy.deepcopy(cuvinte_sortate_entropie)
-
 
 wordle = Wordle()
 jucator = Jucator()
