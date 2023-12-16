@@ -1,10 +1,5 @@
 # Proiect Wordle
 
-## Echipa:
-+ Antonescu Ionut-Andrei
-+ Bobei Vlad-Serban
-+ Epure-Tofanel Carlo
-
 ## Descriere
 
   Programul este impartit in doua clase: prima reprezinta jocul propriu-zis, iar cea de a doua este jucatorul care rezolva jocul.
